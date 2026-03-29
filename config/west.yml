@@ -2,10 +2,17 @@ manifest:
   remotes:
     - name: moergo-sc
       url-base: https://github.com/moergo-sc
+    - name: nguyendown
+      url-base: https://github.com/nguyendown
+
   projects:
     - name: zmk
       remote: moergo-sc
       revision: main
       import: app/west.yml
+    - name: zmk-behavior-socd
+      remote: nguyendown
+      revision: main
+
   self:
     path: config
