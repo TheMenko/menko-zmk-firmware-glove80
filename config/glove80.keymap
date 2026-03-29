@@ -328,7 +328,7 @@
     &kp F1    &kp F2  &kp F3    &kp F4     &kp F5                                                                                                              &kp F6     &kp F7    &kp F8    &kp F9    &kp F10
    &kp ESC    &kp N1  &kp N2    &kp N3     &kp N4  &kp N5                                                                                              &kp N6  &kp N7     &kp N8    &kp N9    &kp N0  &kp MINUS
    &kp TAB     &kp Q   &kp W     &kp E      &kp R   &kp T                                                                                               &kp Y   &kp U      &kp I     &kp O     &kp P   &kp BSLH
-  &kp BSPC     &socd A   &kp S     &socd D      &kp F   &kp G                                                                                               &kp H   &kp J      &kp K     &kp L  &kp SEMI  &kp EQUAL
+  &kp BSPC     &socd F17   &kp S     &socd F18      &kp F   &kp G                                                                                               &kp H   &kp J      &kp K     &kp L  &kp SEMI  &kp EQUAL
  &kp LSHFT     &kp Z   &kp X     &kp C      &kp V   &kp B  &rgb_ug RGB_TOG    &rgb_ug RGB_EFF    &trans    &trans  &rgb_ug RGB_EFR  &mo LAYER_symbols   &kp N   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp PG_UP
  &kp LCTRL  &kp LALT   &kp A  &kp LEFT  &kp RIGHT                &kp SPACE  &mo LAYER_symbols  &kp LGUI  &kp RALT       &kp SYSREQ            &kp RET          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT  &kp PG_DN
             >;
