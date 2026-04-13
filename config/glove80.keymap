@@ -56,7 +56,7 @@
 
 #define LAYER_base 0
 #define LAYER_symbols 1
-#define LAYER_gaming 2
+#define LAYER_game 2
 
 /* To deal with the situation where there is no Lower layer, to keep &lower happy */
 #ifndef LAYER_Lower
